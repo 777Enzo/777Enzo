@@ -1,16 +1,16 @@
-## Hi there 👋
+# Greetings 👽
 
-<!--
-**777Enzo/777Enzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Biography
 
-Here are some ideas to get you started:
+My name is Enzo, and I am deeply passionate about Data Science and Analysis. I enjoy the entire process—from data collection to generating actionable insights—and find the field endlessly fascinating. My ultimate goal is to leverage my skills in data to contribute to the advancement of AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My academic journey began at Cincinnati State Technical Community College in 2021, where I majored in Software Engineering Technologies – Computer Programming & Database Management. During my time there, I completed coursework in Algebra, Calculus, SQL, Python, System Design & Analysis, C, and more.
+
+In August 2025, I will begin pursuing a double bachelor's degree in Data Science and Statistics, with a minor in Data Analysis, at Northern Kentucky University (NKU).
+
+Outside of academics, I spend my free time exploring Data Science, Analysis, and AI/ML, continually expanding my knowledge and understanding of their transformative potential.
+
+Thank you for visiting and taking the time to learn more about me!
+
+📫 How to reach me:
+    - ekouevie1@mymail.nku.edu
